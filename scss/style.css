@@ -2,7 +2,7 @@
 /*
 Theme Name: Medic
 Author: Themefisher
-Author URI: https://themefisher.com/
+Author URI: https://amgtransform.com/
 Description: Medicle Template
 Version: 1.0.0
 
@@ -112,15 +112,15 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
   border-color: #E36D16;
 }
 .btn-main:hover {
-  background: #e12454;
-  border-color: #e12454;
+  background: rgba(216, 107, 26, 0.8196078431);
+  border-color: rgba(216, 107, 26, 0.8196078431);
   color: #fff;
 }
 
 .btn-main-2 {
-  background: #e12454;
+  background: rgba(216, 107, 26, 0.8196078431);
   color: #fff;
-  border-color: #e12454;
+  border-color: rgba(216, 107, 26, 0.8196078431);
 }
 .btn-main-2:hover {
   background: #E36D16;
@@ -282,7 +282,7 @@ a {
 }
 
 a:focus, a:hover {
-  color: #e12454;
+  color: rgba(216, 107, 26, 0.8196078431);
   text-decoration: none;
 }
 
@@ -404,7 +404,7 @@ a:focus {
   color: #555;
 }
 .dropdown .dropdown-item:hover {
-  color: #e12454;
+  color: rgba(216, 107, 26, 0.8196078431);
 }
 
 .header-top-bar {
@@ -440,7 +440,7 @@ a:focus {
   position: relative;
   overflow: hidden;
   background: #fff;
-  background: url("../images/bg/slider-bg-1.jpg") no-repeat;
+  background: url("../images/bg/home-bg1.jpg") no-repeat;
   background-size: cover;
   min-height: 550px;
 }
@@ -464,13 +464,13 @@ a:focus {
 }
 
 .text-color-2 {
-  color: #e12454;
+  color: rgba(216, 107, 26, 0.8196078431);
 }
 
 .divider {
   width: 40px;
   height: 5px;
-  background: #e12454;
+  background: rgba(216, 107, 26, 0.8196078431);
 }
 
 @media (max-width: 480px) {
@@ -632,7 +632,7 @@ a:focus {
   margin-bottom: 10px;
 }
 .service i {
-  color: #e12454;
+  color: rgba(216, 107, 26, 0.8196078431);
 }
 .service h4 {
   padding-left: 20px;
@@ -660,7 +660,7 @@ a:focus {
   margin-bottom: 10px;
 }
 .department-service li i {
-  color: #e12454;
+  color: rgba(216, 107, 26, 0.8196078431);
 }
 
 .doctors .btn-group .btn {
@@ -674,7 +674,7 @@ a:focus {
 .doctors .btn-group .btn.active {
   box-shadow: none !important;
   border-color: transparent;
-  background: #e12454;
+  background: rgba(216, 107, 26, 0.8196078431);
   color: #fff;
 }
 .doctors .btn-group .btn.focus {
@@ -684,13 +684,13 @@ a:focus {
 .doctors .btn-group .btn:focus {
   box-shadow: none !important;
   border-color: transparent;
-  background: #e12454;
+  background: rgba(216, 107, 26, 0.8196078431);
   color: #fff;
 }
 .doctors .btn-group .btn:hover {
   box-shadow: none !important;
   border-color: transparent;
-  background: #e12454;
+  background: rgba(216, 107, 26, 0.8196078431);
   color: #fff;
 }
 .doctors .btn-group > .btn-group:not(:last-child) > .btn, .doctors .btn-group > .btn:not(:last-child):not(.dropdown-toggle), .doctors .btn-group > .btn:not(:first-child) {
@@ -722,7 +722,7 @@ a:focus {
 }
 .doctor-info li i {
   margin-right: 20px;
-  color: #e12454;
+  color: rgba(216, 107, 26, 0.8196078431);
 }
 
 .read-more {
@@ -860,7 +860,7 @@ a:focus {
 }
 .testimonial-block.style-2 i {
   bottom: -20px;
-  color: #e12454;
+  color: rgba(216, 107, 26, 0.8196078431);
   opacity: 0.3;
 }
 
@@ -947,7 +947,7 @@ a:focus {
   font-size: 50px;
   margin-bottom: 15px;
   display: inline-block;
-  color: #e12454;
+  color: rgba(216, 107, 26, 0.8196078431);
 }
 
 .blog-item-content h2 {
@@ -999,7 +999,7 @@ a:focus {
   color: #223a66;
   padding: 40px;
   font-style: italic;
-  border-left: 5px solid #e12454;
+  border-left: 5px solid rgba(216, 107, 26, 0.8196078431);
   margin: 25px 0px;
 }
 
@@ -1181,7 +1181,7 @@ a:focus {
   bottom: 0px;
   width: 35px;
   height: 3px;
-  background: #e12454;
+  background: rgba(216, 107, 26, 0.8196078431);
 }
 .sidebar-widget.latest-post .media img {
   border-radius: 7px;
@@ -1276,7 +1276,7 @@ a:focus {
   color: #6F8BA4;
 }
 .widget .footer-menu a:hover {
-  color: #e12454;
+  color: rgba(216, 107, 26, 0.8196078431);
 }
 
 .footer-contact-block span {
@@ -1307,7 +1307,7 @@ a:focus {
   margin-bottom: 18px;
 }
 .widget-contact h6 i {
-  color: #e12454;
+  color: rgba(216, 107, 26, 0.8196078431);
 }
 
 .subscribe {
@@ -1327,7 +1327,7 @@ a:focus {
 
 .backtop {
   position: fixed;
-  background: #e12454;
+  background: rgba(216, 107, 26, 0.8196078431);
   z-index: 9999;
   display: inline-block;
   right: 55px;
